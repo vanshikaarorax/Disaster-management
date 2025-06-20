@@ -60,21 +60,7 @@ python src/main.py
 - [Security Policy](SECURITY.md) - Security and vulnerability reporting
 - [Changelog](CHANGELOG.md) - Version history and changes
 
-## 🤝 Contributing
 
-We believe in the power of community collaboration! Whether you're fixing bugs, adding features, or improving documentation, your contributions are welcome.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
-## 🔒 Security
-
-We take security seriously. If you discover any security-related issues, please follow our [Security Policy](SECURITY.md).
 
 ## 📸 Project Screenshots
 
@@ -87,22 +73,4 @@ Here are some snapshots of our DisasterConnect interface:
 ![Screenshot 5](docs/screenshots/5.png)
 
 
-*These screenshots showcase various interfaces of our disaster response coordination platform.*
-
-## 💬 Community and Support
-
-- 📫 Contact: saqlainrazee@gmail.com
-- 🐛 [Report bugs](https://github.com/Razee4315/DisasterConnect/issues)
-- 💡 [Request features](https://github.com/Razee4315/DisasterConnect/issues)
-- 👥 [Discussions](https://github.com/Razee4315/DisasterConnect/discussions)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-- **Saqlain Razee** - [Razee4315](https://github.com/Razee4315)
-
----
-⭐ Star this repository if you find it helpful!
+*The
